@@ -8,3 +8,4 @@ webbrowser.register('edge', None, webbrowser.BackgroundBrowser(edge_path))
 
 #webbrowser.get('chrome').open('https://code.whitehatjr.com/s/dashboard') #for chrome
 webbrowser.get('edge').open('https://code.whitehatjr.com/s/dashboard')
+webbrowser.get('edge').open('https://www.youtube.com/')
